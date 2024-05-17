@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 179.51.142.6
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1699830314052
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1699830411509
+  login: 1699827652538
+money: '380.3199999999999884'
+last-account-name: Bryan_14
+lastlocation:
+  world: ec5713b1-c724-4e7b-a326-55938b064ff0
+  world-name: world
+  x: -39.64429139702811
+  y: 65.0
+  z: -84.46229482644702
+  yaw: 82.8154296875
+  pitch: 29.698274612426758
+logoutlocation:
+  world: ec5713b1-c724-4e7b-a326-55938b064ff0
+  world-name: world
+  x: 599.4508972380319
+  y: 66.92159999847412
+  z: 923.4197654402975
+  yaw: -3.87640380859375
+  pitch: 14.195379257202148

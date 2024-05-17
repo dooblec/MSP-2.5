@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 186.178.113.105
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1699923766650
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1699924019015
+  login: 1699923741028
+  kits:
+    tools: 1699845432696
+money: '223.7223000000000231'
+last-account-name: Dinavp
+lastlocation:
+  world: ec5713b1-c724-4e7b-a326-55938b064ff0
+  world-name: world
+  x: -41.68228176484071
+  y: 65.0
+  z: -83.66921671262972
+  yaw: 64.05087280273438
+  pitch: -61.95011901855469
+logoutlocation:
+  world: ec5713b1-c724-4e7b-a326-55938b064ff0
+  world-name: world
+  x: -39.64429139702811
+  y: 65.0
+  z: -84.46229482644702
+  yaw: 75.68040466308594
+  pitch: 36.88951873779297
+homes:
+  home:
+    world: ec5713b1-c724-4e7b-a326-55938b064ff0
+    world-name: world
+    x: 195.67928292723914
+    y: 72.0
+    z: 325.6113225555549
+    yaw: -85.34600830078125
+    pitch: 30.899490356445312

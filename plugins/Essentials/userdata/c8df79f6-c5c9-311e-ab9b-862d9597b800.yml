@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 190.155.95.86
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1701037496898
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1701716122474
+  login: 1701715102874
+money: '396.28'
+last-account-name: Rick_Sans0
+lastlocation:
+  world: ec5713b1-c724-4e7b-a326-55938b064ff0
+  world-name: world
+  x: -87.55857494825686
+  y: 64.0
+  z: -72.34630028789469
+  yaw: 100.2127685546875
+  pitch: 3.5385642051696777
+logoutlocation:
+  world: ec5713b1-c724-4e7b-a326-55938b064ff0
+  world-name: world
+  x: -255.44779662805226
+  y: 70.0
+  z: -261.71832136757536
+  yaw: 50.205078125
+  pitch: 33.05133056640625
+homes:
+  home:
+    world: ec5713b1-c724-4e7b-a326-55938b064ff0
+    world-name: world
+    x: -249.48832775790848
+    y: 70.0
+    z: -255.6742521487638
+    yaw: -132.152099609375
+    pitch: 13.169693946838379

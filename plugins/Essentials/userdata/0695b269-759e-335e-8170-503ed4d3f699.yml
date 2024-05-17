@@ -1,0 +1,50 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 181.230.24.71
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1701019193050
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1701019321077
+  login: 1701019148656
+  kits:
+    dtools: 1700352962730
+    firework: 1699576129191
+money: '4097.5783500000000563'
+last-account-name: huevoncho
+lastlocation:
+  world: ec5713b1-c724-4e7b-a326-55938b064ff0
+  world-name: world
+  x: -104.79136950013425
+  y: 64.0
+  z: -64.1587269513284
+  yaw: 46.828590393066406
+  pitch: 31.38655662536621
+logoutlocation:
+  world: ec5713b1-c724-4e7b-a326-55938b064ff0
+  world-name: world
+  x: -943.8566169514255
+  y: 47.0
+  z: 368.8986515326543
+  yaw: 130.16908264160156
+  pitch: 29.550893783569336
+homes:
+  home:
+    world: ec5713b1-c724-4e7b-a326-55938b064ff0
+    world-name: world
+    x: -930.9669526209012
+    y: 72.0
+    z: 346.87584395650475
+    yaw: 145.44671630859375
+    pitch: 16.861879348754883

@@ -1,0 +1,86 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # REQUIRED
+  # Appears as the title of the menu.
+  name: '&1Piedras de Proteccion'
+
+  # REQUIRED
+  # The number of rows in the menu.
+  rows: 3
+
+  # OPTIONAL
+  # Set which commands a player can execute to open the menu.
+  commands:
+  - 'piedras'
+
+  # OPTIONAL
+  # How frequently the menu will be refreshed, in seconds.
+  # Useful if you have placeholders in icon descriptions.
+  auto-refresh: 5
+
+  # OPTIONAL
+  # These actions will be executed when the menu is opened.
+  # Supports all the icon action types.
+  open-actions:
+  - 'tell: &eYou opened the example menu.'
+
+  # OPTIONAL
+  # The menu will open only when right-clicking with a compass.
+  open-with-item:
+    material: compass
+    left-click: false
+    right-click: true
+
+
+######################
+#+                  +#
+#       ICONS        #
+#+                  +#
+######################
+
+
+Piedra1:
+  MATERIAL: emerald ore
+  POSITION-X: 3
+  POSITION-Y: 1
+  NAME: '&eComprar Piedra de Proteccion super grande'
+  LORE: 
+    - 'Click para comprar'
+    - 'Dinero Requerido &a{money} &8/&a$10000'
+  ACTIONS:
+    - 'console: ps give 64 {player} '
+  PRICE: 10000
+  
+Piedra2:
+  MATERIAL: coal ore
+  POSITION-X: 1
+  POSITION-Y: 1
+  NAME: '&eComprar Piedra de Proteccion basica'
+  LORE: 
+    - 'Click para comprar'
+    - 'Dinero Requerido &a{money} &8/&a$500'
+  ACTIONS:
+    - 'console: ps give 10 {player} '
+  PRICE: 500
+  
+Piedra3:
+  MATERIAL: diamond ore
+  POSITION-X: 2
+  POSITION-Y: 1
+  NAME: '&eComprar Piedra de Proteccion mediana'
+  LORE: 
+    - 'Click para comprar'
+    - 'Dinero Requerido &a{money} &8/&a$5000'
+  ACTIONS:
+    - 'console: ps give 32 {player} '
+  PRICE: 5000
+  
+  
+
+

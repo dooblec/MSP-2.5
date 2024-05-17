@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 181.230.29.161
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1700074269125
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1700074304099
+  login: 1700074178452
+money: '1607.8876500000000027'
+last-account-name: gordoraviol
+lastlocation:
+  world: ec5713b1-c724-4e7b-a326-55938b064ff0
+  world-name: world
+  x: -903.1637548569877
+  y: 65.5625
+  z: 373.99663744197807
+  yaw: 123.89990234375
+  pitch: 57.1500244140625
+logoutlocation:
+  world: ec5713b1-c724-4e7b-a326-55938b064ff0
+  world-name: world
+  x: -854.2522137306377
+  y: 70.0
+  z: 387.57608499821197
+  yaw: 167.8507080078125
+  pitch: 25.350074768066406
+homes:
+  home:
+    world: ec5713b1-c724-4e7b-a326-55938b064ff0
+    world-name: world
+    x: -827.8050507836303
+    y: 69.0
+    z: 378.97264219039994
+    yaw: -61.949493408203125
+    pitch: 9.600007057189941

@@ -1,0 +1,53 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 181.112.84.33
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1705600394178
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1705682270182
+  login: 1705681538097
+  kits:
+    firework: 1699496960732
+    dtools: 1705681583119
+    notch: 1699496891295
+    tools: 1699715811790
+    color: 1699496946966
+money: '306003.8528000000001855'
+last-account-name: JaduMC
+lastlocation:
+  world: ec5713b1-c724-4e7b-a326-55938b064ff0
+  world-name: world
+  x: -878.5377521035647
+  y: 68.0
+  z: -752.3697019391334
+  yaw: -81.89849853515625
+  pitch: 26.772708892822266
+logoutlocation:
+  world: ec5713b1-c724-4e7b-a326-55938b064ff0
+  world-name: world
+  x: -58.21320175552232
+  y: 65.0
+  z: -79.2470010631235
+  yaw: -83.31719970703125
+  pitch: 3.3767502307891846
+homes:
+  home:
+    world: ec5713b1-c724-4e7b-a326-55938b064ff0
+    world-name: world
+    x: 367.3905787145354
+    y: 64.0
+    z: 424.23609925010646
+    yaw: -107.298583984375
+    pitch: 31.448219299316406

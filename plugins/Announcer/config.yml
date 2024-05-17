@@ -1,0 +1,19 @@
+#######################################################
+##                   Created By                      ##
+##                    Deckerz                        ##
+#######################################################
+announcement:
+    enabled: true
+    random: false
+    prefix: '&c[Anuncio] '
+    interval: 180
+    check-for-updates: true
+    messages:
+    - '&d&lOsirisCraft §6No te olvides de comprar tu piedra de proteccion con el comando /piedras'
+    - '&d&lOsirisCraft §6No te olvides de visitar la tienda en el /spawn'
+    - '&d&lOsirisCraft §6Vende tus cosas de valor con el comando /ah'
+    - '&d&lOsirisCraft §6Utitiza tus kits segun tu rango con el comando /kits'
+    - '&d&lOsirisCraft §6Escoge tus trabajos con el comando /jobs browse'
+    - '&d&lOsirisCraft §6 Unete a nuestro discord https://discord.gg/WsrY3UQyCu'
+    
+ 

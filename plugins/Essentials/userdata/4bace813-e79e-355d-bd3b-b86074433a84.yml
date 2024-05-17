@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 38.9.45.12
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1701207483548
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1701207739721
+  login: 1701202409414
+  kits:
+    tools: 1700865149448
+money: '1582.20095000000006538'
+last-account-name: VincsMC
+lastlocation:
+  world: ec5713b1-c724-4e7b-a326-55938b064ff0
+  world-name: world
+  x: -88.61619021604756
+  y: 64.5
+  z: -72.99926351710333
+  yaw: 64.54703521728516
+  pitch: 6.763879776000977
+logoutlocation:
+  world: ec5713b1-c724-4e7b-a326-55938b064ff0
+  world-name: world
+  x: -628.8601385549008
+  y: 100.0
+  z: 1191.8131257574064
+  yaw: 161.5660400390625
+  pitch: 34.849815368652344
+homes:
+  home:
+    world: ec5713b1-c724-4e7b-a326-55938b064ff0
+    world-name: world
+    x: 661.4853101039937
+    y: 72.0
+    z: -451.3928922839077
+    yaw: 89.2333984375
+    pitch: 43.73793029785156

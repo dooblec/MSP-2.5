@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 200.116.213.170
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1701126558648
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1701205852125
+  login: 1701205628267
+money: '0'
+last-account-name: Salcione
+lastlocation:
+  world: ec5713b1-c724-4e7b-a326-55938b064ff0
+  world-name: world
+  x: -101.2659387987566
+  y: 64.0
+  z: -67.7705677972271
+  yaw: 40.5804557800293
+  pitch: 16.1894474029541
+logoutlocation:
+  world: ec5713b1-c724-4e7b-a326-55938b064ff0
+  world-name: world
+  x: -207.69999998807907
+  y: 114.0
+  z: 111.65922367980376
+  yaw: 81.46395874023438
+  pitch: 3.4159278869628906

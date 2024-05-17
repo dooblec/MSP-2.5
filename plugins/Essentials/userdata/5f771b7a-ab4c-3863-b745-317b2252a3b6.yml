@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 190.207.94.13
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1701204244848
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1701380714853
+  login: 1701380684947
+money: '0'
+last-account-name: Jegagolo
+lastlocation:
+  world: ec5713b1-c724-4e7b-a326-55938b064ff0
+  world-name: world
+  x: 619.0658868015681
+  y: 71.0
+  z: -450.33355748015134
+  yaw: 10.4775390625
+  pitch: 23.86664390563965
+logoutlocation:
+  world: ec5713b1-c724-4e7b-a326-55938b064ff0
+  world-name: world
+  x: -39.5
+  y: 65.0
+  z: -84.5
+  yaw: 82.43047332763672
+  pitch: 34.189491271972656

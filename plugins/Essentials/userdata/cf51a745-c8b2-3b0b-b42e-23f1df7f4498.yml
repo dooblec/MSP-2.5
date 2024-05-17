@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 181.129.178.188
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1701380906171
+  login: 1701380680709
+money: '0'
+last-account-name: Witergatan
+lastlocation:
+  world: ec5713b1-c724-4e7b-a326-55938b064ff0
+  world-name: world
+  x: -123.62548758950817
+  y: 65.0
+  z: -58.56958277309348
+  yaw: 56.43039321899414
+  pitch: -0.607189416885376
+logoutlocation:
+  world: ec5713b1-c724-4e7b-a326-55938b064ff0
+  world-name: world
+  x: -130.69999998807907
+  y: 64.0
+  z: -22.99884744172384
+  yaw: -149.70010375976562
+  pitch: 18.150056838989258
